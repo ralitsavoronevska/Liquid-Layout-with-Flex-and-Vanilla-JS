@@ -1,0 +1,55 @@
+/*
+	#HTML/CSS/JS TEST SPECIFICATION AND REQUIREMENTS
+
+	##Page overals
+	- Liquid layout - done 
+	- max content wrapper width: 1280px, min widht: 800 - done
+	- content centered on the page - done
+	- right column width: 30% of content wrapper - done
+	- left column and right column padding 10px - done
+	- - - either column can lead the height of the page - done
+	- page main title - embed font -> HelveticaInserat LT - done
+	- logo element must be fixed at all time at the left border of the page - done
+	- all of your JS code MUST be into the "content.js" file - done
+	- do not use any ready scripts and libraries - done
+
+	##Dynamics
+	- main navigation, drop down menu based on JS - don't use ready scripts - done
+	- right column dynamic boxes:
+	- - - click to open, click to close - done
+	- - - two boxes must not be open in the same time - done 
+
+	##Cross-browser
+	- 10+ - done
+	- FF - done
+	- Chrome - done
+
+	##Language menu
+	- hover makes flag opaque - done
+	- selected flag is opaque - done
+
+	##Misc
+	- font sizes and box sizes may be in %, px or em - used - done
+
+	##Table Task(not required but will be a plus):
+	1. Your script must be able to handle number of columns dynamically (i.e. more or less columns, depending on the JSON sent)
+	- - - we are going to test the table with different JSONs during the test review
+	2. Get sample content with XMLHTTP request from here: http://webwork.s3.amazonaws.com/interview-tests/MOCK_DATA.json
+	3. Decide on the table HTML structure by yourself (table/div... etc.)
+	4. Implement sorting on the column headers
+
+	##What are we checking about your code:
+	- structure
+	- quality
+	- consistency
+	- reusability
+
+	##!!! IMPORTANT !!!
+	##Your test does NOT qualify for review if:
+	- JSON content is not loaded with AJAX
+	- We need to fiddle with your code to make it work
+	- JS global scope is polluted
+	- scripts you didn't write yourself
+	- JS libraries and frameworks
+	- CSS "frameworks"
+*/

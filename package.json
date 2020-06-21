@@ -1,0 +1,22 @@
+{
+  "name": "liquid-layout",
+  "version": "1.0.0",
+  "description": "Web Front-end Task",
+  "main": "content.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralitsavoronevska/liquid-layout.git"
+  },
+  "author": "Ralitsa Voronevska",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ralitsavoronevska/liquid-layout/issues"
+  },
+  "homepage": "https://github.com/ralitsavoronevska/liquid-layout#readme",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
